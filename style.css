@@ -1,0 +1,137 @@
+body {
+    font-family: Arial, sans-serif;
+    padding: 20px;
+    border-radius: 10px;
+    background-color: #f4f4f4;
+    display: flex;
+    flex-direction: column;
+    gap: 1rem;
+}
+header{
+    background-color: #2196F3;
+    color: white;
+    padding: 20px 40px;
+    border-radius: 10px;
+}
+header h1{
+    margin-top: 0;
+}
+.student-name {
+    color: #0d47a1;
+    font-weight: bold;
+}
+ul {
+    list-style-type: none;
+    padding: 0;
+    margin-top: 20px;
+}
+ul li {
+    display: inline-block;
+    margin-right: 20px;
+}
+ul li a {
+    color: white;
+    text-decoration: none;
+    font-weight: bold;
+    font-size: 1.1em;
+}
+
+.content {
+    background-color: white;
+    padding: 20px 40px;
+    border-radius: 10px;
+}
+
+.highlight-box {
+    background-color: #fff3e0;
+    border-left: 5px solid #ff9800;
+    padding: 10px;
+    margin: 10px 0;
+}
+.orange-text {
+    color: #ff9800;
+}
+
+.red-text {
+    color: #d32f2f;
+}
+.image-caption {
+    font-style: italic;
+    color: #333;
+    margin-top: 5px;
+}
+.grade-text{
+   color: #d32f2f; 
+}
+.btn-submit{
+    background-color: #4ac1fc;
+    padding: 10px;
+    border-radius: 10px;
+    border: none;
+}
+.red-text-small{
+       color: #d32f2f; 
+
+}
+.form-group {
+    margin-bottom: 15px;
+}
+.form-group label {
+    display: block;
+    margin-bottom: 5px;
+    font-weight: bold;
+}
+
+.form-control {
+    width: 100%;
+    padding: 8px;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    box-sizing: border-box;
+}
+.highlight-input{
+    background-color: #f1f8e9;
+    border-color: #43a047;
+}
+.btn-send {
+    background-color: #4caf50;
+    color: white;
+    border: none;
+    padding: 10px 0;
+    width: 100%;
+    border-radius: 4px;
+    font-size: 16px;
+    cursor: pointer;
+    font-weight: bold;
+}
+.grade-table {
+    width: 100%;
+    border-collapse: collapse;
+    margin-top: 20px;
+}
+.grade-table th {
+    background-color: #1976d2;
+    color: white;
+    padding: 10px;
+    text-align: left;
+    border: 1px solid #90caf9;
+}
+.grade-table td {
+    padding: 10px;
+    border: 1px solid #ccc;
+    background-color: #e3f2fd;
+}
+.grade-table tr:nth-child(even) td {
+    background-color: #f5f5f5; 
+}
+.grade-green {
+    color: #2e7d32; 
+    font-weight: bold;
+}
+footer {
+    text-align: center;
+    padding: 20px;
+    color: #777;
+    margin-top: 20px;
+}
+
