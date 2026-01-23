@@ -8,7 +8,7 @@ This project is a practical part of the Web Programming 2 course, focusing on bu
 2. The website will display the content designed for week 3 of the course.
 
 ## Online Demo
-You can view the project demo at: [https://Hugo-huy2004.github.io/Web_Programming_2-Le_Gia_Huy_GCS230377-/](https://Hugo-huy2004.github.io/Web_Programming_2-Le_Gia_Huy_GCS230377-/)
+You can view the project demo at: [https://hugo-huy2004.github.io/Web_Programming_2-Le_Gia_Huy_GCS230377-/](https://hugo-huy2004.github.io/Web_Programming_2-Le_Gia_Huy_GCS230377-/)
 
 *Note: To make the demo work, ensure GitHub Pages is enabled for this repository from the `week3` or `main` branch.*
 
