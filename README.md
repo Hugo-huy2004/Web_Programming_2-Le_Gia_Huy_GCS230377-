@@ -12,6 +12,9 @@ You can view the project demo at: [https://hugo-huy2004.github.io/Web_Programmin
 
 *Note: To make the demo work, ensure GitHub Pages is enabled for this repository from the `week3` or `main` branch.*
 
+## Video Demo
+<iframe src="https://drive.google.com/file/d/1MAwy98gnZHen_mffvMyWoF_wNItgKy_6/preview" width="640" height="480" allow="autoplay"></iframe>
+
 ## Project Structure
 - `index.html`: The main file containing the HTML code of the website.
 
