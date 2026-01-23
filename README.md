@@ -1,20 +1,25 @@
 # Web Programming 2 - Week 3 Project
 
-## Mô tả dự án
-Dự án này là phần thực hành của môn Web Programming 2, tập trung vào việc xây dựng giao diện web cơ bản sử dụng HTML, CSS và JavaScript.
+## Project Description
+This project is a practical part of the Web Programming 2 course, focusing on building a basic web interface using HTML, CSS, and JavaScript.
 
-## Hướng dẫn sử dụng
-1. Mở file `index.html` trong trình duyệt web (như Chrome, Firefox, hoặc Safari).
-2. Trang web sẽ hiển thị nội dung được thiết kế cho tuần 3 của khóa học.
+## Usage Instructions
+1. Open the `index.html` file in a web browser (such as Chrome, Firefox, or Safari).
+2. The website will display the content designed for week 3 of the course.
 
-## Cấu trúc dự án
-- `index.html`: File chính chứa mã HTML của trang web.
+## Online Demo
+You can view the project demo at: [https://Hugo-huy2004.github.io/Web_Programming_2-Le_Gia_Huy_GCS230377-/](https://Hugo-huy2004.github.io/Web_Programming_2-Le_Gia_Huy_GCS230377-/)
 
-## Thông tin người nộp
-- **Tên**: LE GIA HUY
-- **Mã sinh viên**: GCS230377
-- **Ngày nộp**: 23 tháng 1, 2026
+*Note: To make the demo work, ensure GitHub Pages is enabled for this repository from the `week3` or `main` branch.*
 
-## Lưu ý
-- Đảm bảo trình duyệt hỗ trợ HTML5 để hiển thị đầy đủ.
-- Nếu có bất kỳ vấn đề nào, vui lòng kiểm tra console của trình duyệt để xem lỗi.
+## Project Structure
+- `index.html`: The main file containing the HTML code of the website.
+
+## Submitter Information
+- **Name**: LE GIA HUY
+- **Student ID**: GCS230377
+- **Submission Date**: January 23, 2026
+
+## Notes
+- Ensure the browser supports HTML5 for full display.
+- If there are any issues, please check the browser console for errors.
